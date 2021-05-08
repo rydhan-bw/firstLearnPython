@@ -1,5 +1,6 @@
 namaBuah = ["Mangga","Apel","Jeruk"]
-namaBuah.append("Anggur")
+namaBuah.append("Anggur merah")
+namaBuah.remove("Apel")
 
 
 #output
